@@ -1,4 +1,4 @@
-# Services-procurement-bid--estimate--information_General-competitive-bidding-conditionally
+# services-procurement-bid--estimate--information_general-competitive-bidding-conditionally
 　【和歌山県　役務調達等公開システムです。】
 和歌山県　役務調達等公開システムです。現在公開分 （条件付き）一般競争入札 です。
 
